@@ -1,10 +1,10 @@
 const fs = require('fs')
 
 global.creator = 'Aulia Rahman'// yourname
-global.MONGO_DB_URI = "new999_selection" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://contactsiksaneraka:iMBb1JauOeqRcXiL@cluster0.dow3ged.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "support@link2u.biz.id" //email
-global.email_password = "pkAm4zHbXgAp" //application password email
+global.your_email = "no.reply.link2u@gmail.com" //email
+global.email_password = "rrbqenetgwlxjhaj" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
